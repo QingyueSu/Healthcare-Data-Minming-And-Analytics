@@ -1,4 +1,4 @@
-# healthcare-data-minming-and-analytics
+# Healthcare-Data-Minming-And-Analytics
 This repository contains many quantitative researches in healthcare field.
 
 ## 1. Analysis of the National Plan and Provider Enumeration System (Python)
@@ -14,3 +14,11 @@ This paper provides an overview of the US healthcare Insurance based on the stat
 - Got the Herfindahl-Hirschman Index (HHI) to measure each state’s concentration of market power
 - Examine the Insurance Benefit Package
 - Quality of care and performance of the plans
+
+## 2. Insurance Claims Data & Analytics (R & Python)
+This paper provides an overview of the US healthcare Insurance Claims, which mainly includs: 
+- Picked 7 patients to draw their patient vignettes 
+- Service and Cost Profile of Major Insurances
+  - Age Distribution of Medicare, Medicaid and Commercial Players
+  - Spending Percentage of Medicare, Medicaid and Commercial Players
+- Examining the enormity of the health crisis related to illicit drugs and prescription opioids use/abuse/overdose
